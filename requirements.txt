@@ -1,4 +1,7 @@
-snscrape
+streamlit
 pandas
-tqdm
-
+numpy
+textblob
+matplotlib
+seaborn
+plotly
